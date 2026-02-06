@@ -1,4 +1,7 @@
 **Cursor Landing Page**
+
+🌐 **Live Demo**: [View Resume](https://cursor-landing-page-clone.netlify.app/)
+
 - **File:** [index.html](index.html) — Static clone of Cursor landing page.
 
 **Recreated Sections**

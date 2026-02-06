@@ -83,6 +83,8 @@ header nav ul {
     background-color: #EDECEC;
     border-radius: 150px;
     text-decoration: none;
+    display: block;
+    width: fit-content;
 }
 
 .hero-section img {
